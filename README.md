@@ -1,1 +1,3 @@
 # Sentence-Reconstruction-Leveraging-Contextual-Meaning-from-Speech-Related-Brain-Signals
+
+In this study, we develop a sentence reconstruction method for brain-to-speech systems using a limited vocabulary, exploring two approaches: word-in-sentence reconstruction and natural sentence generation. By employing temporal convolutional network models to analyze EEG signals and create contextually relevant word embeddings, we enhance sentence generation efficiency. Our findings show that the word-in-sentence approach improves error rates in speech production, while the natural sentence generation facilitates more fluid communication, allowing users to express natural sentences in real-time.
